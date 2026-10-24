@@ -19,13 +19,13 @@ This beta supports DX11 and OpenXR. DX12 and other game-store versions are not s
 
 ## Installation
 
-1. Close the game and UEVR. If you already have an EVERSPACE 2 UEVR profile, back up its folder before replacing it. Do not merge profiles.
+1. Close the game and UEVR. If a profile already exists, enter `%APPDATA%\UnrealVRMod` in File Explorer's address bar and move the `ES2-Win64-Shipping` folder to a backup location outside that directory. Do not merge profiles.
 2. Extract **UEVR-ES2-Lite-0.9-Beta.zip** into a new folder. Keep all its files together.
 3. Open Steam, right-click **EVERSPACE 2 → Properties**, and add **`-dx11`** to **Launch Options**. Remove a conflicting `-dx12` option if present.
-4. Connect your headset and start its OpenXR runtime as usual.
-5. Run **UEVRInjector.exe** from the extracted UEVR folder.
+4. Connect your headset, start its OpenXR runtime as usual, and launch EVERSPACE 2 from Steam.
+5. Run **UEVRInjector.exe** from the extracted UEVR folder and select **ES2-Win64-Shipping.exe** in the process list.
 6. Use the injector's **Import Config** option and select **ES2-Win64-Shipping.zip**. Keep the profile ZIP compressed for this step.
-7. Start EVERSPACE 2 from Steam. In the injector, select **ES2-Win64-Shipping.exe**, choose **OpenXR**, and click **Inject**.
+7. In the injector, choose **OpenXR** and click **Inject**.
 8. Load your game. The profile applies automatically.
 
 Nothing needs to be copied into the game's installation folder. No commands or installation scripts are required. To play normally without VR, start the game without injecting UEVR.
