@@ -29,3 +29,13 @@ This beta supports DX11 and OpenXR. DX12 and other game-store versions are not s
 8. Load your game. The profile applies automatically.
 
 Nothing needs to be copied into the game's installation folder. No commands or installation scripts are required. To play normally without VR, start the game without injecting UEVR.
+
+## Credits and UEVR version
+
+- **[Pande4360](https://github.com/Pande4360)** — creator of the original EVERSPACE 2 VR profile on which this profile is based.
+- **[Joey](https://github.com/joeyhodge/UEVR)** — author of the UEVR version used and forked for this adaptation.
+- **[praydog and the UEVR contributors](https://github.com/praydog/UEVR)** — creators of the original UEVR framework.
+
+The bundled UEVR is a modified build based on **joeyhodge/UEVR**, branch **ue57performance**, commit **[738976660f1297f752be27a4f08d28ec5a60c2c2](https://github.com/joeyhodge/UEVR/commit/738976660f1297f752be27a4f08d28ec5a60c2c2)** (4 October 2026).
+
+UEVR's [main license](https://github.com/joeyhodge/UEVR/blob/738976660f1297f752be27a4f08d28ec5a60c2c2/LICENSE) states **All rights reserved**. Its [plugin SDK has a separate MIT license](https://github.com/joeyhodge/UEVR/blob/738976660f1297f752be27a4f08d28ec5a60c2c2/include/LICENSE). Third-party license notices are included in the UEVR ZIP.
