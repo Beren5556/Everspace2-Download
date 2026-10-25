@@ -2,10 +2,10 @@
 
 ## Downloads
 
-This candidate is awaiting an in-game test. While signed in with repository owner access, open [Releases](https://github.com/Beren5556/Everspace2-Download/releases), select **EVERSPACE 2 VR Lite 0.9.1** marked **Draft**, and download **both** attached ZIP files:
+Download **both** files from [Lite 0.9.1](https://github.com/Beren5556/Everspace2-Download/releases/tag/v0.9.1-lite):
 
-1. **UEVR-ES2-Lite-0.9.1.zip** — UEVR injector and required libraries.
-2. **ES2-Win64-Shipping.zip** — the EVERSPACE 2 VR profile. Keep it compressed for import.
+1. **[UEVR-ES2-Lite-0.9.1.zip](https://github.com/Beren5556/Everspace2-Download/releases/download/v0.9.1-lite/UEVR-ES2-Lite-0.9.1.zip)** — UEVR injector and required libraries.
+2. **[ES2-Win64-Shipping.zip](https://github.com/Beren5556/Everspace2-Download/releases/download/v0.9.1-lite/ES2-Win64-Shipping.zip)** — the EVERSPACE 2 VR profile. Keep it compressed for import.
 
 ## Requirements
 
